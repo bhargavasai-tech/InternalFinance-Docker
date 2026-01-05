@@ -37,3 +37,5 @@ finance.db
 # --- IDE Settings ---
 .vscode/
 .idea/
+
+Ops-Infra/.terraform.lock.hcl
